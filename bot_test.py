@@ -4,7 +4,7 @@ from bs4 import BeautifulSoup
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
 
-TOKEN = 'ODI1MjEzNjk3ODQwNTEzMDY2.YF6qJQ._fOUzX_lhPTTVGd8gr5fio_zL30'
+TOKEN = 'Get your own Token'
 
 chrome_options = Options()
 chrome_options.add_argument("--disable-notifications")
